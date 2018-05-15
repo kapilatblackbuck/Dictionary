@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">RedMart</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_tabbed">TabbedActivity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_item_list">Items</string>
+    <string name="title_item_detail">My Questions</string>
+    <string name="logout">Logout</string>
+    <string name="login">Login</string>
+    <string name="logged_out_msg">You are logged out!!</string>
+    <string name="app_title">Learning Dictionary</string>
+    <string name="add_to_card">ADD TO CART</string>
+    <string name="scenarios">Scenarios</string>
+    <string name="submit">Submit</string>
+    <string name="show_answer">Show Answer</string>
+    <string name="usage">Usage:</string>
+    <string name="next">Next</string>
+</resources>

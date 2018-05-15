@@ -1,0 +1,427 @@
+[
+  {
+    "scenarios": [
+      "Item/ Service charged/sold at sky high price"
+    ],
+    "usages": [
+      "Last year onion was sold in exorbitant prices."
+    ],
+    "answer": "exorbitant"
+  },
+  {
+    "scenarios": [
+      "Property under legal action"
+    ],
+    "usages": [
+      "The property is under litigation."
+    ],
+    "answer": "litigation"
+  },
+  {
+    "scenarios": [
+      "Speciality as virtue"
+    ],
+    "usages": [
+      "Mathematics was never my forte.",
+      "Hard work should be every bodys forte."
+    ],
+    "answer": "forte"
+  },
+  {
+    "scenarios": [
+      "a great victory or achievement."
+    ],
+    "usages": [
+      "they had no chance of triumphing over the Nationalists"
+    ],
+    "answer": "triumph"
+  },
+  {
+    "scenarios": [
+      "A dish which is salty or spicy rather than sweet."
+    ],
+    "usages": [
+      "fresh pineapple is useful in savoury as well as in sweet dishes"
+    ],
+    "answer": "savoury"
+  },
+  {
+    "scenarios": [
+      "आनंद उठाना of game or food"
+    ],
+    "usages": [
+      "they want to savour our game specialities",
+      "Nothing like the cricket club of India to savour cricket. Thank you @sachin_rt for being there."
+    ],
+    "answer": "savour"
+  },
+  {
+    "scenarios": [
+      "अशुभ"
+    ],
+    "usages": [
+      "It was believed that when a black cat crosses ones path, is a sinister",
+      "there was something sinister about that murmuring voice"
+    ],
+    "answer": "sinister"
+  },
+  {
+    "scenarios": [
+      "make (something) deviate from its original path"
+    ],
+    "usages": [
+      "BJP is deflecting from its agenda of development"
+    ],
+    "answer": "deflect"
+  },
+  {
+    "scenarios": [
+      "पपड़ी, टुकड़े टुकड़े हो जाना"
+    ],
+    "usages": [
+      "Snow flakes are one of nature's most fragile things, but just look at what they can do when they stick together...",
+      "flaked almonds"
+    ],
+    "answer": "Flake"
+  },
+  {
+    "scenarios": [
+      "Interest getting weak",
+      "weakness in countable manner"
+    ],
+    "usages": [
+      "Google interest in Eclipse is waning",
+      "interest is getting decrease day-by-day degree by degree count whereas weakness can not be counted"
+    ],
+    "answer": "wane"
+  },
+  {
+    "scenarios": [
+      "strange which does not have negative connotations",
+      "weired behaviour which most people like"
+    ],
+    "usages": [
+      "Quirky to me are a tad eccentric. They have traits that most people like",
+      "they accepted her attitude as one of her little quirks "
+    ],
+    "answer": "Quirk"
+  },
+  {
+    "scenarios": [
+      "संक्रामक, छूत से लगने वाला{रोग}"
+    ],
+    "usages": [
+      "MMS, like his bosses Sonia & Rahul, did not congratulate Modi by name in his speech. Bad manners are contagious"
+    ],
+    "answer": "CONTAGIOUS"
+  },
+  {
+    "scenarios": [
+      "अपश्चात्तापी, showing no regret for one's wrongdoings."
+    ],
+    "usages": [
+      "he was unrepentant and said that his comments were completely accurate",
+      "He is an unrepentant murderer",
+      "Indians punished Cong with 44 seats not only for corruption & inflation but for unrepentant arrogance"
+    ],
+    "answer": "unrepentant"
+  },
+  {
+    "scenarios": [
+      "Regret with the feeling of not committing same mistake again"
+    ],
+    "usages": [
+      "I repent me of all I did",
+      "Regret is in -ve sense where person think that he could not do ill will but on next chance he will do it"
+    ],
+    "answer": "Repent"
+  },
+  {
+    "scenarios": [
+      "सूंघना, गंध"
+    ],
+    "usages": [
+      "his dog sniffed at my trousers",
+      "An early sniff of the exit poll numbers?"
+    ],
+    "answer": "sniff"
+  },
+  {
+    "scenarios": [
+      "अश्लील/असभ्य वर्तन या शब्द"
+    ],
+    "usages": [
+      "the book was banned for obscenity",
+      "Women demand strict laws aganinst obscenity.",
+      "Saints are expected to utter sacred words and not obscenities"
+    ],
+    "answer": "OBSCENITY"
+  },
+  {
+    "scenarios": [
+      "Making things hard to notice"
+    ],
+    "usages": [
+      "#ElectionCommission: People are free to approach courts directly against candidates for concealing information in nomination papers",
+      "the activity of keeping something secret"
+    ],
+    "answer": "conceal"
+  },
+  {
+    "scenarios": [
+      "having or showing the ability to make decisions quickly and effectively."
+    ],
+    "usages": [
+      "she had an image of being tough and decisive"
+    ],
+    "answer": "decisive"
+  },
+  {
+    "scenarios": [
+      "डूबना, अचानक नीचे गिरना, jump or dive quickly and energetically"
+    ],
+    "usages": [
+      "The truck went out of control and plunged into river",
+      "he plunged his hands into his pockets",
+      "India will plunge into darkness if Modi comes to power"
+    ],
+    "answer": "plunge"
+  },
+  {
+    "scenarios": [
+      "द्वेष, the desire to harm someone; ill will"
+    ],
+    "usages": [
+      "She did it out of malice.",
+      "I bear no malice towards anybody",
+      "Priyanka Gandhi speaks to TIMES NOW, hits back at BJP again and says the malice in this campaign is theirs"
+    ],
+    "answer": "malice"
+  },
+  {
+    "scenarios": [
+      "शानदार, featuring or having the quality of a star performer or performers"
+    ],
+    "usages": [
+      "a stellar cast had been assembled",
+      "Telecom major #Idea Cellular posts a stellar set of fourth quarter numbers beating street expectations.",
+      "Priyanka Gandhi speaks to TIMES NOW, hits back at BJP again and says the malice in this campaign is theirs"
+    ],
+    "answer": "stellar"
+  },
+  {
+    "scenarios": [
+      "the movement of a lot of people from a place",
+      "a mass departure of people"
+    ],
+    "usages": [
+      "the annual exodus of sun-seeking Canadians to Florida",
+      "exodus of Kashmiri Pandits happened under the BJP man"
+    ],
+    "answer": "exodus"
+  },
+  {
+    "scenarios": [
+      "A close Friend or partner in a criminal organization"
+    ],
+    "usages": [
+      "Crony is a partner in a criminal organization while friend is an object or idea that can be used for good",
+      "he went gambling with his cronies",
+      "Her son spends most of his evenings with his cronies",
+      "Adani land deals in Gujarat are a case of crony capitalism"
+    ],
+    "answer": "Crony"
+  },
+  {
+    "scenarios": [
+      "a short flash of light/ shine"
+    ],
+    "usages": [
+      "her glasses glinted in the firelight"
+    ],
+    "answer": "Glint"
+  },
+  {
+    "scenarios": [
+      "जोर से फेंक कर मारना,throw (someone or something) with great force"
+    ],
+    "usages": [
+      "rioters hurled a brick through the windscreen",
+      "Narendra Modi hurls 'bloodied hand' barb at Congress"
+    ],
+    "answer": "hurl"
+  },
+  {
+    "scenarios": [
+      "बेफिक्र"
+    ],
+    "usages": [
+      "Several people were martyred for Telangana cause but Cong was unfazed. "
+    ],
+    "answer": "unfazed"
+  },
+  {
+    "scenarios": [
+      "यातनाग्रस्त"
+    ],
+    "usages": [
+      "the ten gunmen had been martyred in Kashmir"
+    ],
+    "answer": "martyred"
+  },
+  {
+    "scenarios": [
+      "बहुत बड़ा, of very great size or force; gigantic."
+    ],
+    "usages": [
+      "Yetis are the giants of Himalayas.",
+      "Indian roads are giant killers"
+    ],
+    "answer": "giant"
+  },
+  {
+    "scenarios": [
+      "Someone who try to do something but not able to do due to lack of confidence"
+    ],
+    "usages": [
+      "Coward is the one who do not try but wimp is one who try but not able to do due to lack of confidence",
+      "Sonia at her slanderous best while our wimpish media looks the other way--"
+    ],
+    "answer": "wimp"
+  },
+  {
+    "scenarios": [
+      "the action of damaging the good reputation of someone",
+      "A false statement which damage the character of the person"
+    ],
+    "usages": [
+      "she sued him for defamation"
+    ],
+    "answer": "defamation"
+  },
+  {
+    "scenarios": [
+      "the action of reducing or weakening the good reputation of someone instead of damaging"
+    ],
+    "usages": [
+      "she tells me I'm fat and is always making derogatory remarks"
+    ],
+    "answer": "derogatory"
+  },
+  {
+    "scenarios": [
+      "the action of making defamation in writing"
+    ],
+    "usages": [
+      "the jury found that he was libelled by a newspaper",
+      "he was found guilty of a libel on a Liverpool inspector of taxes"
+    ],
+    "answer": "Libel"
+  },
+  {
+    "scenarios": [
+      "the action of making defamation orally"
+    ],
+    "usages": [
+      "he is suing the TV company for slander",
+      "they were accused of slandering the head of state",
+      "Sonia at her slanderous best while our wimpish media looks the other way"
+    ],
+    "answer": "slander"
+  },
+  {
+    "scenarios": [
+      "दूत"
+    ],
+    "usages": [
+      "#BJP demands apology from Syed Ali Shah Geelani for claiming Modi sent emissaries to him on Kashmir issue"
+    ],
+    "answer": "emissaries"
+  },
+  {
+    "scenarios": [
+      "a sudden arrival or occurrence of something in overwhelming quantities."
+    ],
+    "usages": [
+      "the program brought an avalanche of mail",
+      "we have had an avalanche of applications for the post",
+      "an avalanche of misfortunes",
+      "an avalanche of fan mail.",
+      "Avalanche sweeps Mt Everest; 6 killed, 9 missing"
+    ],
+    "answer": "Avalanche"
+  },
+  {
+    "scenarios": [
+      "a connection or series of connections linking two or more things.",
+      "अन्तर्सम्बन्ध"
+    ],
+    "usages": [
+      "connection is (uncountable) the act of connecting while nexus is a form of connection. ",
+      "The nexus between industry and government can both be good and bad for the nation",
+      "Dr Baru's book reveals curious nexus between senior media editors, owners, Sonia & PMO"
+
+    ],
+    "answer": "nexus"
+  },
+  {
+    "scenarios": [
+      "झूठी गवाही "
+    ],
+    "usages": [
+      "Capt Amarinder Singh sends a legal notice to Subramaniam Swamy for making allegations of perjury against him"
+    ],
+    "answer": "perjury"
+  },
+  {
+    "scenarios": [
+      "फूलों का tribute"
+    ],
+    "usages": [
+      "PM Dr Manmohan Singh pays floral tributes at the portrait of Babasaheb B R Ambedkar on his 123rd Birth Anniversary."
+    ],
+    "answer": "floral tribute"
+  },
+  {
+    "scenarios": [
+      "फूलों का tribute"
+    ],
+    "usages": [
+      "PM Dr Manmohan Singh pays floral tributes at the portrait of Babasaheb B R Ambedkar on his 123rd Birth Anniversary."
+    ],
+    "answer": "floral tribute"
+  },
+  {
+    "scenarios": [
+      "illegal and morally wrong"
+    ],
+    "usages": [
+      "Illicit can be something that is illegal, but it can also be something that is morally wrong or against societal norms",
+      "the illicit trade in stolen vehicles",
+      "an illicit love affair",
+      "The information had been obtained illicitly"
+    ],
+    "answer": "Illicit"
+  },
+  {
+    "scenarios": [
+      "विशाल, extremely large or great, especially in scale or degree."
+    ],
+    "usages": [
+      "the cost of restoration has been immense",
+      "This region has an immense availability of gas and petroleum"
+    ],
+    "answer": "immense"
+  },
+  {
+    "scenarios": [
+      "growing, फूलना, बहार पर आना"
+    ],
+    "usages": [
+      "we use flower to mean a fully mature blossom, and blossom to mean the first sign of a flower emerging from a bud. So when something is blossoming, it is growing.",
+      "I'm not going to bloomin' well apologize to him!",
+      "Jo looked really well, positively blooming."
+    ],
+    "answer": "Bloom"
+  }
+]
